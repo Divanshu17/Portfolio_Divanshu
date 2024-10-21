@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/divanshu_portfolio/static/css/main.1b8ef7d0.css",
+    "main.js": "/divanshu_portfolio/static/js/main.a8b1ff12.js",
+    "static/media/Photography2.png": "/divanshu_portfolio/static/media/Photography2.28f1bd566b2e506f2dca.png",
+    "static/media/project6.png": "/divanshu_portfolio/static/media/project6.3cb2112dd4e8481b5e43.png",
+    "static/media/project4.png": "/divanshu_portfolio/static/media/project4.aa6868b7996b4bac69ee.png",
+    "static/media/project1.png": "/divanshu_portfolio/static/media/project1.3bfbcc8c49b7478ec3be.png",
+    "static/media/project5.png": "/divanshu_portfolio/static/media/project5.e3e25b642223029dfe2e.png",
+    "static/media/project3.png": "/divanshu_portfolio/static/media/project3.6a1d7884548e8e2c7043.png",
+    "static/media/project2.png": "/divanshu_portfolio/static/media/project2.fb6375d0c25d14d782fd.png",
+    "static/media/Resume.pdf": "/divanshu_portfolio/static/media/Resume.6d0fd48186dc5a955e5f.pdf",
+    "index.html": "/divanshu_portfolio/index.html",
+    "main.1b8ef7d0.css.map": "/divanshu_portfolio/static/css/main.1b8ef7d0.css.map",
+    "main.a8b1ff12.js.map": "/divanshu_portfolio/static/js/main.a8b1ff12.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b8ef7d0.css",
+    "static/js/main.a8b1ff12.js"
+  ]
+}
