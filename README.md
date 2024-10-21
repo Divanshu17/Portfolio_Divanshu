@@ -3,4 +3,4 @@
 Welcome to my portfolio! Here's a quick overview:
 
 ## Links
-- [Visit My Live Portfolio](https://divanshu17.github.io/)
+- [Visit My Live Portfolio](https://divanshu17.github.io/Portfolio_Divanshu/)
